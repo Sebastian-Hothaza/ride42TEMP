@@ -17,14 +17,18 @@ a{
     gap: 2em;
 }
 
-#banner{
+.banner{
     background-color: yellow;
     font-size: 1.5em;
-    text-wrap: nowrap;
     font-weight: bold;
     width: 100%;
     text-align: center;
-    padding: .5em;
+    padding: .2em;
+}
+
+i{
+    background-color: transparent;
+    font-size: .5em;
 }
 
 
